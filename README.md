@@ -13,3 +13,6 @@ A robot programja:
 ![](Képernyőfelvétel%20(53).png)
 A konga programja:
 ![](Képernyőfelvétel%20(54).png)
+
+Link a kész projekthez:
+https://scratch.mit.edu/projects/492920256/fullscreen/
